@@ -20,7 +20,7 @@
     ],
     "require": {
         "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.*",
-        "intelipost/magento2-basic": "1.*"
+        "RickDias/magento2-basic": "1.*"
     },
     "autoload": {
         "files": [
