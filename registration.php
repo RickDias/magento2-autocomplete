@@ -7,7 +7,7 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'Intelipost_Autocomplete',
+    'RickDias_Autocomplete',
     __DIR__
 );
 
